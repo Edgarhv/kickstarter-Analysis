@@ -20,7 +20,8 @@ To determine if other Kickstarter campaigns were able to get closer to their fun
 
 ## Analysis of Outcomes Based on Launch Date
 From the data analysis of the results based on the launch dates, it is observed that most of the successful campaigns were launched in May and June. We would assume that these months are summer, and people support the campaigns, but we need more data to give a better analysis. On the other hand, in December the chances of success and failure were the same.
-
+ ![Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
+ 
 ## Analysis of Outcomes Based on Goals
 It can be seen that from the results data, campaigns with a target amount of more than $ 45,000 are more likely to fail. Campaigns with a target amount between $ 10,000 and $ 25,000 have a 50 percent chance of success or failure. It is also observed that the higher the goal, the higher the chances of failure.
 
